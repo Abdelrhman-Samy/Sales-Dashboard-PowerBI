@@ -1,4 +1,4 @@
-# 🛍️ Sales Performance Dashboard – Retail Business (2019)
+#  🛍️ Sales Performance Dashboard – Retail Business (2019)
 
 ## 📊 Project Overview
 This project is an **interactive Power BI dashboard** analyzing retail sales data across three branches in different cities.  
@@ -6,7 +6,7 @@ The dashboard provides insights into **sales performance, customer demographics,
 
 ---
 
-## 🚀 Tools & Techniques
+##  🚀 Tools & Techniques
 - **Power BI Desktop**  
 - **Data Modeling & Relationships**  
 - **DAX Measures & Calculated Columns**  
@@ -14,7 +14,7 @@ The dashboard provides insights into **sales performance, customer demographics,
 
 ---
 
-## 📌 Key Features
+##  📌 Key Features
 - **Page 1 – Overview**
   - KPIs: Total Sales, Gross Income, Transactions, Average Rating  
   - Sales breakdown by Branch, Payment Method, and Customer Type  
@@ -32,7 +32,7 @@ The dashboard provides insights into **sales performance, customer demographics,
 
 ---
 
-## 🔑 Business Insights
+##  🔑 Business Insights
 - Naypyitaw branch leads sales (34%), while Yangon and Mandalay perform equally.  
 - Food is the best-selling product line; Health & Beauty is the weakest but with only a small gap.  
 - Members and Normal customers spend almost the same (no major difference).  
@@ -44,16 +44,16 @@ The dashboard provides insights into **sales performance, customer demographics,
 
 ---
 
-## 🖼️ Dashboard Preview
+##  🖼️ Dashboard Preview
 *(Replace with your uploaded screenshots)*  
 
-### Page 1 – Overview  
+###  Page 1 – Overview  
 ![Overview Screenshot](screenshots/overview.png)  
 
-### Page 2 – Customer Insights  
+###  Page 2 – Customer Insights  
 ![Customer Insights Screenshot](screenshots/customers.png)  
 
-### Page 3 – Product & Branch Analysis  
+###  Page 3 – Product & Branch Analysis  
 ![Products Screenshot](screenshots/products.png)  
 
 ---
