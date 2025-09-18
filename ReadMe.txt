@@ -1,4 +1,4 @@
-# 🛍️ Sales Performance Dashboard – Retail Business (2019)
+#🛍️ Sales Performance Dashboard – Retail Business (2019)
 
 ## 📊 Project Overview
 This is an **interactive Power BI dashboard** analyzing retail sales across three branches in different cities.  
